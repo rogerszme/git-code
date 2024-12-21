@@ -1,0 +1,55 @@
+Verificar a versão Git instalada:
+===================================================
+# git --version
+===================================================
+Abra o terminal:
+selecione no terminal: Git Bash (Default)
+===================================================
+Configuração Git
+===================================================
+# git config --global user.name "Rogerszme"
+# git config --global user.email "rogerszme@hotmail.com"
+---------------------------------------------------
+Checkar o user name:
+# git config user.name
+===================================================
+Default Branch:
+git config --global init.defaultBranch main
+===================================================
+Configurar o VScode:
+abra FILE:
+1- PREFERENCES
+2- SETTINGS
+3- Digite: exclude na pesquisa:
+4- Em File Exclude:
+5- remova o **/.git
+===================================================
+Clone a Repository:
+===================================================
+repositorio para testar:
+# git clone https://github.com/rogerszme/lista02pratica-.git
+===================================================
+mudar para o repositorio clonado:
+# cd lista02pratica-
+===================================================
+1- Abra FILE
+2- OPEN FOLDER:
+3- seleciona a pasta do projeto clonado:
+4- remova o diretorio git no terminal:
+5-  rm -rf .git
+===================================================
+Criar seu proprio projeto:
+# git init
+Verificar o status
+# git status
+Adicionar arquivo ao repositorio
+# git add Git_Tuto.txt
+# git status -s
+===================================================
+Ignorar arquivo no repositorio:
+Criar um arquivo na pasta chamado:
+# .gitignore
+===================================================
+
+
+
