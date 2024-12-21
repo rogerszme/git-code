@@ -61,6 +61,12 @@ Restaurar modificação no arquivo:
 ===================================================
 Fazer o primeiro commit:
 # git commit -m "primeiro commit"
+---------------------------------------------------
+$ git commit -m "primeiro commit"
+[main (root-commit) c0ec680] primeiro commit
+ 2 files changed, 56 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 Git_Tuto.txt
 
 
 
