@@ -50,6 +50,17 @@ Ignorar arquivo no repositorio:
 Criar um arquivo na pasta chamado:
 # .gitignore
 ===================================================
+Adicionar Tudo:
+# git add .
+===================================================
+Verificar modificação no arquivo:
+# git status
+===================================================
+Restaurar modificação no arquivo:
+# git restore <nomedoarquivo>
+===================================================
+Fazer o primeiro commit:
+# git commit -m "primeiro commit"
 
 
 
