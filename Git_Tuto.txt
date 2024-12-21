@@ -67,6 +67,10 @@ $ git commit -m "primeiro commit"
  2 files changed, 56 insertions(+)
  create mode 100644 .gitignore
  create mode 100644 Git_Tuto.txt
+---------------------------------------------------
+$ git status
+On branch main
+nothing to commit, working tree clean
 
-
+# git commit -a -m "Esse é o segundo commit"
 
